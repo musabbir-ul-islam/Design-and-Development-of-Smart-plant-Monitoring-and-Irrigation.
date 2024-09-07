@@ -33,6 +33,11 @@ This project is an IoT-based system designed to monitor plant health and automat
 
 ![Circuit Diagram](https://github.com/user-attachments/assets/efdc9ef7-17d2-40ae-b554-0d71128fa374)
 
+## PCB Design
+![PCB Design](https://github.com/user-attachments/assets/503ebb59-77c6-4cd8-97a4-8a81f4886a5e)
+
+![Fabricated PCB board](https://github.com/user-attachments/assets/f6112706-e2c1-4037-a8fa-56f127ce6b44)
+
 
 ## Software & Libraries
 
