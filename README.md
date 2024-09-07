@@ -45,7 +45,7 @@ This project is an IoT-based system designed to monitor plant health and automat
 
 ## Installation & Setup
 
-1. Code: 
+1. Code: https://github.com/musabbir-ul-islam/Design-and-Development-of-Smart-plant-Monitoring-and-Irrigation.
 2. Open the project in the Arduino IDE or any other compatible platform.
 3. Install the required libraries using the Arduino Library Manager.
 4. Upload the code to your microcontroller.
@@ -69,6 +69,3 @@ This project is an IoT-based system designed to monitor plant health and automat
 
 This project is open-source and available under the MIT License.
 
----
-
-Feel free to modify this template to fit the specifics of your project!
